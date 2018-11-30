@@ -1,52 +1,6 @@
-- name: Brandi Hudson, PhD
-  position: Postdoctoral Fellow
-  startdate: 2016
-  enddate: 2018
-  current: Scientist @ Relay Therapeutics
+# - name: Brandi Hudson, PhD
+#   position: Postdoctoral Fellow
+#   startdate: 2016
+#   enddate: 2018
+#   current: Scientist @ Relay Therapeutics
 
-- name: Rahel Woldeyes, PhD
-  position: Graduate Student (NSF Fellow)
-  startdate: 2012
-  enddate: 2017
-  current: Postdoctoral Fellow - Chiu Lab @ SLAC/Stanford
-
-- name: Daniel Keedy, PhD
-  position: Postdoctoral Fellow (A.P. Giannini Foundation)
-  startdate: 2012
-  enddate: 2017
-  current: Assistant Professor @ CUNY
-
-- name: David Mavor, PhD
-  position: Graduate Student
-  startdate: 2012
-  enddate: 2017
-  current: Postdoctoral Fellow - Bolon Lab @ UMass Medical School
-
-- name: Tomas Lazarou
-  position: Visiting Canadian Technician
-  startdate: Spring 2016
-  enddate: Winter 2016
-  current: Graduate Student - NYU
-
-- name: Andrew VanBenschoten, PhD
-  position: Graduate Student
-  startdate: 2011
-  enddate: 2015
-  current: Senior Data Scientist @ Oracle
-
-- name: Lillian Kenner
-  position: Specialist
-  startdate: 2011
-  enddate: 2014
-  current: Graduate Student - Frost Lab @ UCSF
-
-- name: Khanh Vuu
-  position: Assistant Specialist
-  startdate: 2012
-  enddate: 2013
-  current: LBL
-
-- name: Avi Samelson, PhD
-  position: Technician
-  enddate: Summer 2011
-  current: Postdoctoral Fellow - Kampmann Lab @ UCSF (was Graduate Student - Marqusee Lab @ UC Berkeley)
