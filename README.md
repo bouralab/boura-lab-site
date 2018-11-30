@@ -1,5 +1,7 @@
-# fraser-lab.github.io
+# boura-lab.github.io
 ====================
+
+Forked from fraser-lab/fraser-lab.github.io
 
 Technologies this website uses:  
 
