@@ -1,5 +1,5 @@
-name: "Boura Lab @ UVA"
-description: "This is the official web page for the Phil Bourne and Cam Mura's lab at UVA."
+name: "Bourne & Mura Computational Biosciences Lab @ UVA"
+description: "This is the official web page for the Phil Bourne and Cam Mura's Computational Biosciences Lab at UVA."
 
 url: "http://bournelab.org"
 
@@ -9,5 +9,5 @@ paginate_path: "news/page:num"
 
 permalink: pretty
 markdown: kramdown
-kramdown: 
+kramdown:
   parse_block_html: true

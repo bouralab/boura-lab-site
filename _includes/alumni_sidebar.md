@@ -1,5 +1,5 @@
 
-## Fraser Lab Alumni
+## Bourne Lab Alumni
 
 
 {% for alum in site.data.alumni %}
@@ -11,7 +11,7 @@ Currently: {{alum.current}} </p>
 </div> {% endfor %}
 
 
-## Fraser Lab Visitors
+## Bourne Lab Visitors
 
 
 {% for visitor in site.data.visitors %}

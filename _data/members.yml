@@ -1,18 +1,42 @@
 - name: Phil Bourne
-  image: /static/img/members/phil.jpg
-  altimage: /static/img/members/phil2.jpg
+  image: https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/Bourne_Phil_List.jpg?itok=a-c8pWO-
   position: Principal Investigator
   email: peb6a (at) virginia.edu
   scholar: Y9q2zZAAAAAJ
   twitter: "PhilBourne"
-  #orcid: "orcid.org/"
+  orcid: "https://orcid.org/0000-0002-7618-7292"
   description: '
+    Philip E. Bourne is the Founding Dean of the School of Data Science and Professor of Biomedical Engineering.
+
+    From 2014-2017, Phil was the Associate Director for Data Science at the National Institutes of Health. In this role he led the Big Data to Knowledge Program, coordinating access to and analyzing biomedical research from across the globe and making it available to scientists and researchers. While there, he was also responsible for governance and strategic planning activities for data and knowledge management, and established multiple trainings in data science. He has done exceptional work to make biomedical research accessible, as well as to advance the field of data science.
+
+    Prior to his time at the NIH, Phil spent 20 years on the faculty at the University of California-San Diego, eventually becoming Associate Vice Chancellor of Innovation and Industrial Alliances. He is a highly respected and oft-cited scholar who brings a wealth of experience to UVA.
       '
 
 - name: Cam Mura
-  image: /static/img/members/cam.jpg
-  altimage: /static/img/members/cam2.jpg
+  image: /static/img/members/mura.png
   position: Staff Scientist
   email: cmura (at) virginia.edu
   scholar: 8PUFc2IAAAAJ
-  description: ""
+  twitter: seemura
+  orcid: https://orcid.org/0000-0001-7985-2561
+  description: "I'm a Senior Scientist and co-director of the Bourne & Mura Computational Biosciences Lab, based in the Department of Biomedical Engineering at the University of Virginia; earlier on, I was an Assistant Professor of Chemistry at UVA (2008-2018). My scientific background, and most of my research interests, are in the areas of structural biology, molecular biophysics and computational biology, particularly as regards the evolution of RNA-associated ribonucleoprotein assemblies, protein folds, and protein-protein interactions. I've also become interested in the data sciences and its attendant approaches (e.g., deep learning and other machine learning paradigms), as applied to the aforementioned scientific domains."
+
+- name: Zheng Zhao
+  image: /static/img/members/zhao.jpeg
+  position: Staff Scientist
+  email: zz7r (at) virginia.edu
+  scholar: siE8wmkAAAAJ
+  twitter: zhengzhao5
+  orcid: https://orcid.org/0000-0003-1453-3230
+  description:
+
+- name: Eli Draizen
+  image: http://edraizen.github.io/images/profile.jpg
+  pronouns: he/him
+  position: PhD Candidate
+  email: ed4bu (at) virginia.edu
+  scholar: As4Mi1cAAAAJ
+  twitter: EliDraizen
+  orcid: https://orcid.org/0000-0002-5645-5050
+  description: Eli is a PhD Candidate Phil Bourne and Cameron Mura's lab. He is interested in structural bioinformatics and machine learning applied to protein evolution and host-pathogen interactions.
