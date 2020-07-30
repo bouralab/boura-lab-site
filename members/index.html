@@ -1,13 +1,13 @@
 ---
-title: Fraser Lab Members
+title: Bourne Lab Members
 layout: members
 group: members
 ---
 
 <h1>Bourne Lab Members</h1>
 
-The Fraser lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.<br>
-<h5>See our<a href="/compact/"> lab compact and philosophy</a>.</h5>
+<!-- **The Bourne lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.<br>
+<h5>See our<a href="/compact/"> lab compact and philosophy</a>.</h5>** REWRITE SINCE IT"S COPIED -->
 
 {% for member in site.members %}
         <hr>
@@ -47,6 +47,10 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
                 {% if member.github %}
                   <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/github_logo.svg"></a>
                   <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
+                {% endif %}
+                {% if member.wikipedia %}
+                  <a href="https://www.wikipedia.org/"><img class="inline-bloc mem-icon" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Wikipedia_mobile_app_logo.png"></a>
+                  <a href= "http://github.com/wiki/{{member.wikipedia}}"> {{member.wikipedia}} </a> <br>
                 {% endif %}
             </div>
             <div class="col-sm-8">
