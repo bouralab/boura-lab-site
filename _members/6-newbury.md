@@ -7,7 +7,7 @@ altimage:
 position: Undergraduate Researcher
 #subsequent:  update once you become an alumnus
 pronouns: they/them/theirs #personal pronouns
-email: amn5ye (at) domain.com #Preferred public email address
+email: amn5ye (at) virginia.edu #Preferred public email address
 scholar: XXXXXXXXXXXX #Google Scholar User ID
 website:
 UVA: XXXXXXXX #UVA Profile ID - Employees only

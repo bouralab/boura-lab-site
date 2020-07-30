@@ -6,7 +6,7 @@ image: /static/img/members/mura.png
 position: Staff Scientist
 #subsequent:  update once you become an alumnus
 pronouns: they/them/theirs #personal pronouns
-email: username (at) domain.com #Preferred public email address
+email: cmura (at) virginia.edu #Preferred public email address
 scholar: 8PUFc2IAAAAJ #Google Scholar User ID
 UVA: XXXXXXXX #UVA Profile ID - Employees only
 twitter: seemura

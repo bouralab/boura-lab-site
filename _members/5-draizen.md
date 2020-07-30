@@ -14,5 +14,5 @@ twitter: EliDraizen
 linkedin: elidraizen
 github: edraizen
 orcid: 0000-0002-5645-5050
-description: Eli is a PhD Candidate Phil Bourne and Cameron Mura's lab. He is interested in structural bioinformatics and machine learning applied to protein evolution and host-pathogen interactions.
+description: Eli is a PhD Candidate Phil Bourne and Cameron Mura's lab. He is interested in structural bioinformatics and machine learning applied to protein evolution and host-pathogen interactions. When he is not in lab, you can find him bikepacking or at a concert.
 ---
