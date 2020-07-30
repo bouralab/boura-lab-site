@@ -4,10 +4,34 @@ description: "This is the official web page for the Phil Bourne and Cam Mura's C
 url: "http://bournelab.org"
 
 paginate: 5
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate_path: "news/page:num"
 
 permalink: pretty
 markdown: kramdown
 kramdown:
   parse_block_html: true
+
+exclude:
+        - .sass-cache/
+        - .jekyll-cache/
+        - gemfiles/
+        - Gemfile
+        - Gemfile.lock
+        - node_modules/
+        - vendor/bundle/
+        - vendor/cache/
+        - vendor/gems/
+        - vendor/ruby/
+
+collections:
+        members:
+                output: true
+        publications:
+                output: true
+        alumni:
+                output: true
+        sep:
+                output: true
+        visitors:
+                output: true

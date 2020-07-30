@@ -4,7 +4,7 @@ layout: default
 group: research
 ---
 
-# We work at the intersection of structural bioinformatics, data science and systems biology/pharmacology
+<!-- <img class="img-fluid mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form"> -->
 
 Our objective is to improve the drug discovery and safety pipeline, our understanding of sequence-structure-function relationships, often from an evolutionary perspective, and broadly contribute open data and methods to further our collective understanding of living systems. Along the way, we work to improve access to knowledge through open scholarly communication.
 
