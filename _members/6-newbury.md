@@ -6,7 +6,7 @@ image: /static/img/members/newbury.jpg
 altimage:
 position: Undergraduate Researcher
 #subsequent:  update once you become an alumnus
-pronouns: they/them/theirs #personal pronouns
+pronouns: she/her/hers #personal pronouns
 email: amn5ye (at) virginia.edu #Preferred public email address
 scholar: XXXXXXXXXXXX #Google Scholar User ID
 website:
@@ -15,5 +15,5 @@ twitter:
 linkedin: abigail-newbury-61930b19a
 github: abbynewbury
 orcid:
-description: "Second-year undergraduate student with experience in public service and an academic focus and personal interest in computational biology and bioinformatics."
+description: "Abigail is an undergraduate researcher and a student at the University of Virginia majoring in mathematics with a double minor in biology and computer science. In her free time she serves as a volunteer EMT and loves to explore the outdoors."
 ---
