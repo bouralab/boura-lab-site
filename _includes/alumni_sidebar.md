@@ -1,4 +1,5 @@
-### Bourne Lab Alumni
+### Alumni
+For lab alumni prior to 2018, please see <a href="https://docs.google.com/spreadsheets/d/1QZ48UaKcwDl_iFCvBmJsT03FK-bMchdfuIHe9Oxc-rw/edit#gid=0">Phils Bourne's Previous Lab Members</a> or <a href="https://academictree.org/chemistry/tree.php?pid=65249">Cam Mura's Academic Tree</a>.
 {% assign sorted = (site.alumni | sort: "enddate") | reverse %}
 {% for member in sorted %}
 <hr>
@@ -41,7 +42,7 @@ Subsequently: {{member.subsequent}} <br>
 </div>
 {% endfor %}
 
-<!-- 
+<!--
 <br>
 ## Bourne Lab Visitors
 {% assign visitor_sorted = (site.visitors | sort: "enddate") | reverse %}

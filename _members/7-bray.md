@@ -6,7 +6,7 @@ image: /static/img/members/bray.jpg
 altimage:
 position: REU Student
 #subsequent:  update once you become an alumnus
-pronouns: they/them/theirs #personal pronouns
+pronouns: he/him/his #personal pronouns
 email: markbbray17 (at) gmail.com #Preferred public email address
 scholar:  #Google Scholar User ID
 website:

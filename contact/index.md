@@ -16,7 +16,7 @@ group: contact
   Professor, Department of Bioengineering  <br>
   University of Virginia   <br>
   P.O. Box 400249   <br>
-  email: peb61 (at) virginia.edu <br>
+  email: peb6a (at) virginia.edu <br>
   tel: (434) 924-6867
 
 </div>

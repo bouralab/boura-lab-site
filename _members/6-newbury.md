@@ -8,9 +8,9 @@ position: Undergraduate Researcher
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
 email: amn5ye (at) virginia.edu #Preferred public email address
-scholar: XXXXXXXXXXXX #Google Scholar User ID
+scholar:  #Google Scholar User ID
 website:
-UVA: XXXXXXXX #UVA Profile ID - Employees only
+UVA: amn5ye #UVA Profile ID - Employees only
 twitter:
 linkedin: abigail-newbury-61930b19a
 github: abbynewbury
