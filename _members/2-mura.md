@@ -1,5 +1,5 @@
 ---
-name: Cam Mura
+name: Cameron Mura
 startdate: 2018-06
 enddate: YYYY-MM-DD
 image: /static/img/members/mura.png
