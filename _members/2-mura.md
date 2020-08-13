@@ -1,11 +1,11 @@
 ---
-name: Cam Mura
-startdate: YYYY-MM-DD
+name: Cameron Mura
+startdate: 2018-06
 enddate: YYYY-MM-DD
 image: /static/img/members/mura.png
-position: Staff Scientist
+position: Senior Scientist
 #subsequent:  update once you become an alumnus
-pronouns: they/them/theirs #personal pronouns
+pronouns: he/him/his #personal pronouns
 email: cmura (at) virginia.edu #Preferred public email address
 scholar: 8PUFc2IAAAAJ #Google Scholar User ID
 UVA: XXXXXXXX #UVA Profile ID - Employees only
