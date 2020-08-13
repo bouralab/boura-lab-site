@@ -24,7 +24,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>Cameron Mura</h4>
-  Staff Scientist  <br>
+  Senior Scientist  <br>
   Department of Bioengineering  <br>
   University of Virginia   <br>
   email: cmura (at) virginia.com <br>
