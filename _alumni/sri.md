@@ -5,7 +5,7 @@ enddate: 2019-05-01
 image:
 position: MSDS Student
 subsequent: Data Scientist at NextEra Energy Resources
-pronouns: they/them/theirs #personal pronouns
+pronouns: #they/them/theirs #personal pronouns
 email: sv2fr@virginia.edu  #Preferred public email address
 scholar:  #Google Scholar User ID
 website:
