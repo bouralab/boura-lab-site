@@ -6,7 +6,7 @@ image: /static/img/members/bohidar.jpg
 altimage:
 position: Master's Student Intern
 #subsequent:  update once you become an alumnus
-pronouns: they/them/theirs #personal pronouns
+pronouns: #they/them/theirs #personal pronouns
 email: nb4dg (at) virginia.edu #Preferred public email address
 scholar:  #Google Scholar User ID
 website:
