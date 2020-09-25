@@ -5,7 +5,7 @@ enddate: 2019-05-01
 image:
 position: MSDS Student
 subsequent: Data Engineer at Precise Software Solutions
-pronouns: they/them/theirs #personal pronouns
+pronouns: #they/them/theirs #personal pronouns
 email: rc3my@virginia.edu  #Preferred public email address
 scholar:  #Google Scholar User ID
 website:
