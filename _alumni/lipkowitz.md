@@ -5,7 +5,7 @@ enddate: 2019-10-01
 image:
 position: Student Researcher
 subsequent: Materials Science PhD student @ Stanford University
-pronouns: they/them/theirs #personal pronouns
+pronouns: #they/them/theirs #personal pronouns
 email: gel5k@virginia.edu  #Preferred public email address
 scholar:  #Google Scholar User ID
 website:
