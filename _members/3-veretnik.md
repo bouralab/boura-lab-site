@@ -6,7 +6,7 @@ image: /static/img/members/veretnik.jpg
 altimage:
 position: Senior Research Scientist
 #subsequent:  update once you become an alumnus
-pronouns: they/them/theirs #personal pronouns
+pronouns: #they/them/theirs #personal pronouns
 email: veretnik (a) sdsc.edu #Preferred public email address
 scholar:  #Google Scholar User ID
 website:
