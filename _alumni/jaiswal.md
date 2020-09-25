@@ -5,7 +5,7 @@ enddate: 2020-05-01
 image:
 position: MSDS Student
 subsequent: Data Scientist @ Facebook
-pronouns: they/them/theirs #personal pronouns
+pronouns: #they/them/theirs #personal pronouns
 email: mj9hre@virginia.edu  #Preferred public email address
 scholar:  #Google Scholar User ID
 website:
