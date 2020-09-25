@@ -5,7 +5,7 @@ enddate: 2019-05-01
 image:
 position: MSDS Student
 subsequent: Sr. Data Scientist at UVA Health System
-pronouns: they/them/theirs #personal pronouns
+pronouns: #they/them/theirs #personal pronouns
 email: spm9r@virginia.edu  #Preferred public email address
 scholar:  #Google Scholar User ID
 website:
