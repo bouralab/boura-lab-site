@@ -11,23 +11,24 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4>Philip E. Bourne</h4>
-  Dean, School of Data Science  <br>
-  Professor, Department of Bioengineering  <br>
-  University of Virginia   <br>
-  P.O. Box 400249   <br>
+  <h4>Philip E. Bourne, PhD</h4>
+  Stephenson Dean, School of Data Science<br />
+  Professor, School of Data Science<br />
+  Professor, Department of Biomedical Engineering<br />
+  University of Virginia<br />
+  P.O. Box 400249 <br />
   email: peb6a (at) virginia.edu <br>
-  tel: (434) 924-6867
+  tel: +1.434.924.6867
 
 </div>
 
 <div class="col-md-4">
 
-  <h4>Cameron Mura</h4>
-  Senior Scientist  <br>
-  Department of Bioengineering  <br>
-  University of Virginia   <br>
-  email: cmura (at) virginia.com <br>
+  <h4>Cameron Mura, PhD</h4>
+  Senior Scientist<br />
+  Department of Biomedical Engineering<br />
+  University of Virginia <br />
+  email: cmura (at) virginia.edu<br />
 
 </div>
 
