@@ -6,25 +6,26 @@ group: contact
 
 # Contact the Bourne & Mura Lab
 
+<br />
 
 <div class="row">
 
 <div class="col-md-4">
 
-  <h4>Philip E. Bourne, PhD</h4>
+  <h4>Philip E. Bourne</h4>
   Stephenson Dean, School of Data Science<br />
   Professor, School of Data Science<br />
   Professor, Department of Biomedical Engineering<br />
   University of Virginia<br />
   P.O. Box 400249 <br />
-  email: peb6a (at) virginia.edu <br>
-  tel: +1.434.924.6867
+  e: peb6a (at) virginia.edu <br>
+  t: +1.434.924.6867
 
 </div>
 
 <div class="col-md-4">
 
-  <h4>Cameron Mura, PhD</h4>
+  <h4>Cameron Mura</h4>
   Senior Scientist<br />
   Department of Biomedical Engineering<br />
   University of Virginia <br />
