@@ -23,6 +23,7 @@ Our objective is to improve the drug discovery and safety pipeline, our understa
 </tr>
 </tbody>
 </table>
+<a href="/research/urfold">More Info</a>
 <br>
 
 ## Protein Interaction Prediction
